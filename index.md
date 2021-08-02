@@ -21,19 +21,14 @@ While recent learning based methods have been observed to be superior for severa
 > Shadow art sculptures generated using differentiable rendering casting the shadows of (a) WACV acronym on one plane and fishes on the other resembling an aquarium of floating objects, (b) dropping Heart, Duck, and Mickey (all on the same plane), and (c) face sketches using half-toned images. (d) 3D reconstruction of a car from hand drawn sketches.
 
 
+<div style="text-align:center">
+    <img src="{{ site.baseurl }}/media/sketches.png" />
+</div>
+>  A seemingly random voxel soup creates three distinct shadow images of (a) Albert Einstein, Nikola Tesla, and APJ Abdul Kalam, (b) Minions, and (c) Ironman
 
 
 <div style="text-align:center">
     <img src="{{ site.baseurl }}/media/objects.png" />
-</div>
-
->  A seemingly random voxel soup creates three distinct shadow images of (a) Albert Einstein, Nikola Tesla, and APJ Abdul Kalam, (b) Minions, and (c) Ironman
-
-
-
-
-<div style="text-align:center">
-    <img src="{{ site.baseurl }}/media/sketches.png" />
 </div>
 
 > 3D reconstruction of (a) flower vase, (b) pen-stand, and (c) coffee mug using the associated hand drawn sketches from three different views.
