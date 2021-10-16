@@ -38,7 +38,7 @@ While recent learning based methods have been observed to be superior for severa
     <img src="{{ site.baseurl }}/media/printedart.jpg" />
 </div>
 
-> 3D Printed sculptures of quality upto the 3D printer's resolution.
+> 3D Printed artistic sculptures generated using our proposed pipeline (quality upto the 3D printer's resolution).
 
 
 # Paper
