@@ -34,6 +34,13 @@ While recent learning based methods have been observed to be superior for severa
 > 3D reconstruction of (a) flower vase, (b) pen-stand, and (c) coffee mug using the associated hand drawn sketches from three different views.
 
 
+<div style="text-align:center">
+    <img src="{{ site.baseurl }}/media/printedart.jpg" />
+</div>
+
+> 3D Printed sculptures of quality upto the 3D printer's resolution.
+
+
 # Paper
 
 A preprint our work is currently available on arXiv. Click <a href="https://arxiv.org/abs/2107.14539" target="_blank">here</a> to access it.
