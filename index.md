@@ -66,3 +66,5 @@ This research was supported by Science and Engineering Research Board (SERB) IMP
 # Contact
 
 Feel free to contact <a href="https://kaustubh-sadekar.github.io/" target="_blank">Kaustubh Sadekar</a> or <a href="https://www.linkedin.com/in/ashish-tiwari-82a392135/" target="_blank">Ashish Tiwari</a> for any further discussion about our work.
+
+*Project page template inspired from [GradSLAM](https://gradslam.github.io/).*
