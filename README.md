@@ -1,6 +1,8 @@
 # [ShadowArt-Revisited](https://kaustubh-sadekar.github.io/ShadowArt-Revisited/)
 Shadow Art Revisited: A Differentiable Rendering Based Approach
 
+NOTE: [PyTorch3D](https://github.com/facebookresearch/pytorch3d) library was used to perform all the experiements.
+
 ## Setup Instructions
 
 **Clone the repository**
