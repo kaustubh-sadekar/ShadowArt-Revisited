@@ -28,7 +28,7 @@ To create shadow art with two views with files duck.png and mikey.png use the fo
 ```script
 python val.py cuda:0 output1 600 0.01 -swt 10.0 -l1wt 10.0 -sdlist duck.png mikey.png
 ```
-*For better understanding of the input arguments type `python run.py -h`*
+*For better understanding of the input arguments type `python val.py -h`*
 
 ![Voxel Output](media/voxel_shadow_art.gif)
 
@@ -41,7 +41,7 @@ To create shadow art with two views with files duck.png and mikey.png use the fo
 ```script
 python val.py cuda:0 output1 2000 0.15 0 -swt 1.6 -l1wt 1.6 -mwt 0.0 -i2vwt 0.0 -ewt 1.6 -nwt 0.6 -lwt 1.2 -sdlist duck.png mikey.png
 ```
-*For better understanding of the input arguments type `python run.py -h`*
+*For better understanding of the input arguments type `python val.py -h`*
 
 ![Mesh Output](media/mesh_shadow_art.gif)
 
