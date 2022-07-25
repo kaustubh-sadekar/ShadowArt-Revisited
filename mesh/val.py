@@ -287,7 +287,7 @@ parser.add_argument("-sdlist", "--shadow_files", nargs="+", default=["None"])
 args = parser.parse_args()
 
 # setting GPU ID
-if torch.cuda.is_available():
+if torch.cuda.is_available() and (args.device != "cpu"):
     device = torch.device(args.device)
     torch.cuda.set_device(device)
 else:
@@ -296,7 +296,7 @@ else:
 print("Device: ", device)
 
 random.seed(43)
-root_dir = ""
+root_dir = "../"
 main_exp_id = "mesh_results/"
 zdist = 2.5
 debug_mode = False
