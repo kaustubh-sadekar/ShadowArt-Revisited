@@ -298,12 +298,14 @@ args = parser.parse_args()
 #                 Experiment Key Parameters                 #
 #############################################################
 
-# setting GPU ID
-if torch.cuda.is_available():
+# setting Device
+if torch.cuda.is_available() and (args.device != "cpu"):
     device = torch.device(args.device)
     torch.cuda.set_device(device)
 else:
     device = torch.device("cpu")
+
+print("Device: ", device)
 
 ms_ssim_loss = MS_SSIM(device)
 
