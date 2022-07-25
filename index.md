@@ -50,13 +50,13 @@ A preprint our work is currently available on arXiv. Click <a href="https://arxi
 If you would like to cite us, kindly use the following BibTeX entry.
 
 ```
-@misc{sadekar2021shadow,
-      title={Shadow Art Revisited: A Differentiable Rendering Based Approach}, 
-      author={Kaustubh Sadekar and Ashish Tiwari and Shanmuganathan Raman},
-      year={2021},
-      eprint={2107.14539},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Sadekar_2022_WACV,
+    author    = {Sadekar, Kaustubh and Tiwari, Ashish and Raman, Shanmuganathan},
+    title     = {Shadow Art Revisited: A Differentiable Rendering Based Approach},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {29-37}
 }
 ```
 
