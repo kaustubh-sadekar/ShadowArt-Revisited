@@ -47,3 +47,18 @@ python val.py cuda:0 output1 2000 0.15 0 -swt 1.6 -l1wt 1.6 -mwt 0.0 -i2vwt 0.0 
 
 *Gif showing the optimization of the 3D shadow art mesh*
 
+
+## Citation
+
+If you would like to cite us, kindly use the following BibTeX entry.
+
+```
+@InProceedings{Sadekar_2022_WACV,
+    author    = {Sadekar, Kaustubh and Tiwari, Ashish and Raman, Shanmuganathan},
+    title     = {Shadow Art Revisited: A Differentiable Rendering Based Approach},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {29-37}
+}
+```
