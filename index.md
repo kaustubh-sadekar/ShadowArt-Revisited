@@ -5,7 +5,7 @@ layout: default
 # Shadow Art Revisited: A Differentiable Rendering Based Approach
 <a href="https://kaustubh-sadekar.github.io/" target="_blank">Kaustubh Sadekar</a>, <a href="https://www.linkedin.com/in/ashish-tiwari-82a392135/" target="_blank">Ashish Tiwari</a>, <a href="https://people.iitgn.ac.in/~shanmuga/index.html" target="_blank">Shanmuganathan Raman</a>
 
-<a href="https://arxiv.org/abs/2107.14539" target="_blank">Arxiv</a> link / <a href="https://openaccess.thecvf.com/content/WACV2022/html/Sadekar_Shadow_Art_Revisited_A_Differentiable_Rendering_Based_Approach_WACV_2022_paper.html" target="_blank">CVF</a> link.
+<a href="https://arxiv.org/abs/2107.14539" target="_blank">Arxiv</a> link / <a href="https://openaccess.thecvf.com/content/WACV2022/html/Sadekar_Shadow_Art_Revisited_A_Differentiable_Rendering_Based_Approach_WACV_2022_paper.html" target="_blank">CVF</a> link / <a href="https://github.com/kaustubh-sadekar/ShadowArt-Revisited" target="_blank">Code</a> link.
 
 # Abstract
 
