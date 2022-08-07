@@ -2,8 +2,7 @@
 Shadow Art Revisited: A Differentiable Rendering Based Approach
 
 ![ShadowArt Teaser](media/teaser.png)
-
-We used [PyTorch3D](https://github.com/facebookresearch/pytorch3d) to create the differentiable rendering-based shadowart pipeline.
+*Shadow art sculptures generated using differentiable rendering casting the shadows of (a) WACV acronym on one plane and fishes on the other resembling an aquarium of floating objects, (b) dropping Heart, Duck, and Mickey (all on the same plane), and (c) face sketches using half-toned images. (d) 3D reconstruction of a car from hand drawn sketches.*
 
 ## Setup Instructions
 
@@ -24,6 +23,8 @@ tar xzf 1.10.0.tar.gz
 python -c "import os; os.environ["CUB_HOME"] = os.getcwd() + "/cub-1.10.0" "
 pip install 'git+https://github.com/facebookresearch/pytorch3d.git@stable'
 ```
+
+We used [PyTorch3D](https://github.com/facebookresearch/pytorch3d) to create the differentiable rendering-based shadowart pipeline.
 
 ## Examples
 ### Create Shadow Art Using Voxel Optimization
